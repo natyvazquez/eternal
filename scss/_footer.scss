@@ -26,10 +26,10 @@ footer{
 }
 }
         .redesSociales{
-        margin: 0;
+        margin: 5px;
         list-style-type: none;
         width: 80%;
-        padding-right: 20px;
+        padding: 10px;
         display:flex;
         flex-direction: row;
         flex-wrap: nowrap;
@@ -37,7 +37,7 @@ footer{
         grid-area:footer;
             .redes{
                 a{
-                margin-left: 0.5rem;
+                margin: 1rem;
                 width: 15px;
                 }
         }
